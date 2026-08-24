@@ -6056,7 +6056,7 @@ export const INITIAL_RECIPES = [
       "handle": "@coastalhomecooking",
       "title": "Coastal Home Cooking",
       "slogan": "Coastal Lake Flavors \ud83c\udfdd\ufe0f",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Coconut omena expert."
     },
     "videoLink": "https://www.youtube.com/watch?v=5hGdexQdQFQ",
