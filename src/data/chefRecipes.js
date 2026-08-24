@@ -23,7 +23,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Celebrity Swahili chef sharing East African coastal recipes."
     },
     "videoLink": "https://www.youtube.com/watch?v=oTe4H_x9Meo",
@@ -106,7 +106,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Viral steak master known for garlic butter sears."
     },
     "videoLink": "https://www.tiktok.com/@theroamingchef",
@@ -189,7 +189,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Creator of famous Coconut Kamande."
     },
     "videoLink": "https://www.kaluhiskitchen.com/",
@@ -266,7 +266,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Best Pilau in the Universe \ud83c\udfc6",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Kenya's premier food blogger known for unforgettable pilau."
     },
     "videoLink": "https://www.youtube.com/watch?v=NETCYt0rDyo",
@@ -343,7 +343,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Master of street-style Kenyan budget classics."
     },
     "videoLink": "https://www.youtube.com/watch?v=AUT-eBxyXWQ",
@@ -420,7 +420,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Authentic traditional Kenyan staples."
     },
     "videoLink": "https://www.youtube.com/watch?v=Ryw9C-4uldo",
@@ -882,7 +882,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefraphael",
       "title": "Chef Raphael's Kitchen",
       "slogan": "Cooking Made Easy \ud83c\udf72",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedJImmImdIKoWWysg_GoV8AwvkDeXaNVuIZGjoWOw9g&s=10",
       "bio": "Pastry & coastal snack master."
     },
     "videoLink": "https://www.youtube.com/watch?v=9x0tG88m102",
@@ -959,7 +959,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Swahili coconut bean master."
     },
     "videoLink": "https://www.youtube.com/watch?v=p4vW7G1X8k8",
@@ -1190,7 +1190,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Ndengu & chapati master."
     },
     "videoLink": "https://www.youtube.com/watch?v=ZGA9qaJrmJk",
@@ -1342,7 +1342,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Traditional Mukimo creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=Ryw9C-4uldo",
@@ -1419,7 +1419,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Master of Chicken Biryani."
     },
     "videoLink": "https://www.youtube.com/watch?v=cIbUy76gRYg",
@@ -1496,7 +1496,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefraphael",
       "title": "Chef Raphael's Kitchen",
       "slogan": "Cooking Made Easy \ud83c\udf72",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedJImmImdIKoWWysg_GoV8AwvkDeXaNVuIZGjoWOw9g&s=10",
       "bio": "Fish fry master."
     },
     "videoLink": "https://www.youtube.com/watch?v=5x0tG88m102",
@@ -1573,7 +1573,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Pilau specialist."
     },
     "videoLink": "https://www.youtube.com/watch?v=cIbUy76gRYg",
@@ -1649,7 +1649,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Mbaazi za nazi master."
     },
     "videoLink": "https://www.youtube.com/watch?v=p4vW7G1X8k8",
@@ -1726,7 +1726,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Coastal snack creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=x7tG8k92m10",
@@ -1803,7 +1803,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Gourmet stew innovator."
     },
     "videoLink": "https://www.youtube.com/watch?v=9x0tG821m99",
@@ -1880,7 +1880,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Burger master."
     },
     "videoLink": "https://www.tiktok.com/@theroamingchef",
@@ -1956,7 +1956,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Stuffed chicken creator."
     },
     "videoLink": "https://www.tiktok.com/@theroamingchef",
@@ -2032,7 +2032,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Lamb chops creator."
     },
     "videoLink": "https://www.tiktok.com/@theroamingchef",
@@ -2491,7 +2491,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Pork chop master."
     },
     "videoLink": "https://www.tiktok.com/@theroamingchef",
@@ -2568,7 +2568,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Swahili potato master."
     },
     "videoLink": "https://www.youtube.com/watch?v=oTe4H_x9Meo",
@@ -2645,7 +2645,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Kenyan-Indian coastal fusion creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=MjUF4nxOQo8",
@@ -2746,7 +2746,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Master of viral street-style Biryani."
     },
     "videoLink": "https://www.youtube.com/watch?v=Gx6aIEMqloY",
@@ -2847,7 +2847,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Double-fry wing master."
     },
     "videoLink": "https://www.youtube.com/watch?v=QlsQA2pCG_4",
@@ -2942,7 +2942,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Unbreaded chicken innovator."
     },
     "videoLink": "https://www.youtube.com/watch?v=nVb7bzuHBt4",
@@ -3025,7 +3025,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Yellow bean stew creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=DSzVLyQXntw",
@@ -3114,7 +3114,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Swahili cassava master."
     },
     "videoLink": "https://www.youtube.com/watch?v=bPuczJXTgP8",
@@ -3196,7 +3196,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Coleslaw innovator."
     },
     "videoLink": "https://www.youtube.com/channel/UC2T_WoqzVMBQqwRc3_ilXhA/videos",
@@ -3285,7 +3285,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefraphael",
       "title": "Chef Raphael's Kitchen",
       "slogan": "Cooking Made Easy \ud83c\udf72",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedJImmImdIKoWWysg_GoV8AwvkDeXaNVuIZGjoWOw9g&s=10",
       "bio": "Street sandwich master."
     },
     "videoLink": "https://www.youtube.com/watch?v=kY3B9V8zZqw",
@@ -3368,7 +3368,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefalimandhry",
       "title": "Kenya's Culinary Ambassador",
       "slogan": "Lamu Coastal Magic \ud83c\udf0a",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       "bio": "Samaki wa Kupaka master."
     },
     "videoLink": "https://www.youtube.com/watch?v=YIzVbJOUdEw",
@@ -3451,7 +3451,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Gizzard bite creator."
     },
     "videoLink": "https://www.youtube.com/channel/UC2T_WoqzVMBQqwRc3_ilXhA/videos",
@@ -3534,7 +3534,7 @@ export const INITIAL_RECIPES = [
       "handle": "@chefraphael",
       "title": "Chef Raphael's Kitchen",
       "slogan": "Cooking Made Easy \ud83c\udf72",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedJImmImdIKoWWysg_GoV8AwvkDeXaNVuIZGjoWOw9g&s=10",
       "bio": "Breakfast staple master."
     },
     "videoLink": "https://www.youtube.com/watch?v=kY3B9V8zZqw",
@@ -3610,7 +3610,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Muffin baking master."
     },
     "videoLink": "https://www.youtube.com/channel/UC2T_WoqzVMBQqwRc3_ilXhA/videos",
@@ -3699,7 +3699,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Potato breakfast innovator."
     },
     "videoLink": "https://www.youtube.com/channel/UC2T_WoqzVMBQqwRc3_ilXhA/videos",
@@ -3781,7 +3781,7 @@ export const INITIAL_RECIPES = [
       "handle": "@kaluhiskitchen",
       "title": "Kaluhi's Kitchen",
       "slogan": "Kenyan Comfort Cooking \ud83e\udd51",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       "bio": "Pancake creator."
     },
     "videoLink": "https://www.youtube.com/channel/UC2T_WoqzVMBQqwRc3_ilXhA/videos",
@@ -3870,7 +3870,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Kenyan wet fry master."
     },
     "videoLink": "https://www.youtube.com/@theroamingchef",
@@ -3953,7 +3953,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Coastal curry creator."
     },
     "videoLink": "https://www.youtube.com/@theroamingchef",
@@ -6138,7 +6138,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Street food master."
     },
     "videoLink": "https://www.youtube.com/watch?v=5hGdexQdQFQ",
@@ -6298,7 +6298,7 @@ export const INITIAL_RECIPES = [
       "handle": "@dennisombachi",
       "title": "The Roaming Chef",
       "slogan": "DONE! \ud83d\udca5",
-      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       "bio": "Street Mutura creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=5hGdexQdQFQ",
