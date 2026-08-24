@@ -190,6 +190,32 @@ export default function App() {
   const mostCookedMeal = sortedByCooks[0];
   const topCookedToday = sortedByCooks.slice(0, 3);
 
+  // SMART SEARCH INTENT DETECTION
+  const searchQueryLower = searchQuery.toLowerCase().trim();
+  const isMealPlannerIntent = searchQueryLower.length > 1 && (
+    searchQueryLower.includes('plan') ||
+    searchQueryLower.includes('calendar') ||
+    searchQueryLower.includes('schedule') ||
+    searchQueryLower.includes('grocery') ||
+    searchQueryLower.includes('shopping') ||
+    searchQueryLower.includes('week')
+  );
+
+  const isPantryIntent = searchQueryLower.length > 1 && (
+    searchQueryLower.includes('pantry') ||
+    searchQueryLower.includes('fridge') ||
+    searchQueryLower.includes('kitchen') ||
+    searchQueryLower.includes('ingredient')
+  );
+
+  const isDecideIntent = searchQueryLower.length > 1 && (
+    searchQueryLower.includes('decide') ||
+    searchQueryLower.includes('spin') ||
+    searchQueryLower.includes('roulette') ||
+    searchQueryLower.includes('random') ||
+    searchQueryLower.includes('what to eat')
+  );
+
   // CATEGORY & SEARCH FILTERING LOGIC
   const filteredRecipes = recipes.filter(r => {
     const query = searchQuery.toLowerCase().trim();
@@ -370,6 +396,82 @@ export default function App() {
             ))}
           </div>
         </div>
+
+        {/* Smart Search Intent Banners */}
+        {searchQueryLower.length > 0 && (
+          <div className="space-y-3">
+            {isMealPlannerIntent && (
+              <div className="p-5 rounded-3xl bg-gradient-to-r from-amber-500/20 via-slate-900 to-amber-500/10 border-2 border-amber-500/60 shadow-xl shadow-amber-500/10 flex items-center justify-between flex-wrap gap-4">
+                <div className="flex items-center gap-3">
+                  <div className="w-12 h-12 rounded-2xl bg-amber-500 text-slate-950 flex items-center justify-center font-extrabold text-xl shadow-lg shadow-amber-500/20">
+                    📅
+                  </div>
+                  <div>
+                    <h3 className="text-base font-extrabold text-white">Weekly Meal Planner Calendar 📅</h3>
+                    <p className="text-xs text-slate-300">
+                      Plan your Monday–Sunday breakfast, lunch & dinner, drag and drop recipes, and export your market grocery list!
+                    </p>
+                  </div>
+                </div>
+                <button
+                  onClick={() => {
+                    setShowWeeklyPlanner(true);
+                    setTimeout(() => {
+                      document.getElementById('weekly-planner-section')?.scrollIntoView({ behavior: 'smooth' });
+                    }, 100);
+                  }}
+                  className="px-5 py-2.5 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-extrabold text-xs transition shadow-lg shadow-amber-500/20 flex items-center gap-2"
+                >
+                  <span>📅 Open Weekly Meal Planner Calendar →</span>
+                </button>
+              </div>
+            )}
+
+            {isPantryIntent && (
+              <div className="p-5 rounded-3xl bg-gradient-to-r from-emerald-500/20 via-slate-900 to-emerald-500/10 border-2 border-emerald-500/60 shadow-xl shadow-emerald-500/10 flex items-center justify-between flex-wrap gap-4">
+                <div className="flex items-center gap-3">
+                  <div className="w-12 h-12 rounded-2xl bg-emerald-500 text-slate-950 flex items-center justify-center font-extrabold text-xl shadow-lg shadow-emerald-500/20">
+                    🥑
+                  </div>
+                  <div>
+                    <h3 className="text-base font-extrabold text-white">Pantry Ingredient Matcher 🥑</h3>
+                    <p className="text-xs text-slate-300">
+                      Pick ingredients you have in your kitchen right now to find matching Kenyan recipes!
+                    </p>
+                  </div>
+                </div>
+                <button
+                  onClick={() => setShowPantry(true)}
+                  className="px-5 py-2.5 rounded-2xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold text-xs transition shadow-lg shadow-emerald-500/20"
+                >
+                  <span>🥑 Open Pantry Matcher →</span>
+                </button>
+              </div>
+            )}
+
+            {isDecideIntent && (
+              <div className="p-5 rounded-3xl bg-gradient-to-r from-orange-500/20 via-slate-900 to-orange-500/10 border-2 border-orange-500/60 shadow-xl shadow-orange-500/10 flex items-center justify-between flex-wrap gap-4">
+                <div className="flex items-center gap-3">
+                  <div className="w-12 h-12 rounded-2xl bg-orange-500 text-slate-950 flex items-center justify-center font-extrabold text-xl shadow-lg shadow-orange-500/20">
+                    🎲
+                  </div>
+                  <div>
+                    <h3 className="text-base font-extrabold text-white">1-Click Meal Decider Spinner 🎲</h3>
+                    <p className="text-xs text-slate-300">
+                      Can't decide what to eat? Let the Kenyan culinary roulette wheel pick today's meal for you!
+                    </p>
+                  </div>
+                </div>
+                <button
+                  onClick={handleRollRandom}
+                  className="px-5 py-2.5 rounded-2xl bg-orange-500 hover:bg-orange-400 text-slate-950 font-extrabold text-xs transition shadow-lg shadow-orange-500/20"
+                >
+                  <span>🎲 Spin Meal Decider →</span>
+                </button>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Recipe Grid & Category Filters */}
         <section className="space-y-6">
