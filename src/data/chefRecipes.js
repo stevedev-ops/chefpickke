@@ -497,7 +497,7 @@ export const INITIAL_RECIPES = [
       "handle": "@simpleyemi",
       "title": "Simple Yemi Eats",
       "slogan": "Quick Kenyan Home Meals \ud83c\udf73",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lFpvn3jQr_Kt7lLyixQm0BntreHTD7IdQUH1-DjfRoIgmk=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Kenyan home cooking creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=3g8K911m",
@@ -574,7 +574,7 @@ export const INITIAL_RECIPES = [
       "handle": "@suehowino",
       "title": "Village Culinary Queen",
       "slogan": "Traditional Wood-Fire Magic \ud83d\udd25",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cY8gjo_xzNDYLmuw-WKrYfLMxhQ0bgEjmrBnOkaBkQ&s=10",
       "bio": "Famous for traditional open-pit sand roasting techniques."
     },
     "videoLink": "https://www.youtube.com/watch?v=2ilAC4b2Y1c",
@@ -651,7 +651,7 @@ export const INITIAL_RECIPES = [
       "handle": "@suehowino",
       "title": "Village Culinary Queen",
       "slogan": "Traditional Wood-Fire Magic \ud83d\udd25",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cY8gjo_xzNDYLmuw-WKrYfLMxhQ0bgEjmrBnOkaBkQ&s=10",
       "bio": "Famous for cooking inside authentic hand-molded clay pots."
     },
     "videoLink": "https://www.youtube.com/watch?v=7x0tG72k110",
@@ -728,7 +728,7 @@ export const INITIAL_RECIPES = [
       "handle": "@swahilifood",
       "title": "Swahili Food",
       "slogan": "Swahili Coastal Delicacies \ud83c\udfdd\ufe0f",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DrnGbS-W7YV_k7L_L-ytIsFVogujIxqEa7NjKzmswg&s=10",
       "bio": "Swahili street snack expert."
     },
     "videoLink": "https://www.youtube.com/watch?v=6x0tG88m102",
@@ -805,7 +805,7 @@ export const INITIAL_RECIPES = [
       "handle": "@swahilifood",
       "title": "Swahili Food",
       "slogan": "Swahili Coastal Delicacies \ud83c\udfdd\ufe0f",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DrnGbS-W7YV_k7L_L-ytIsFVogujIxqEa7NjKzmswg&s=10",
       "bio": "Coastal chef sharing authentic Swahili snacks and pilau."
     },
     "videoLink": "https://www.youtube.com/watch?v=l7xd2Cny6Sg",
@@ -1036,7 +1036,7 @@ export const INITIAL_RECIPES = [
       "handle": "@simpleyemi",
       "title": "Simple Yemi Eats",
       "slogan": "Quick Kenyan Home Meals \ud83c\udf73",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lFpvn3jQr_Kt7lLyixQm0BntreHTD7IdQUH1-DjfRoIgmk=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Kenyan home cooking creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=5x0tG72k110",
@@ -1113,7 +1113,7 @@ export const INITIAL_RECIPES = [
       "handle": "@simpleyemi",
       "title": "Simple Yemi Eats",
       "slogan": "Quick Kenyan Home Meals \ud83c\udf73",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lFpvn3jQr_Kt7lLyixQm0BntreHTD7IdQUH1-DjfRoIgmk=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Githeri fry expert."
     },
     "videoLink": "https://www.tiktok.com/@simpleyemi",
@@ -2108,7 +2108,7 @@ export const INITIAL_RECIPES = [
       "handle": "@suehowino",
       "title": "Village Culinary Queen",
       "slogan": "Traditional Wood-Fire Magic \ud83d\udd25",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cY8gjo_xzNDYLmuw-WKrYfLMxhQ0bgEjmrBnOkaBkQ&s=10",
       "bio": "Traditional village broth queen."
     },
     "videoLink": "https://www.youtube.com/watch?v=8x0tG89m112",
@@ -2185,7 +2185,7 @@ export const INITIAL_RECIPES = [
       "handle": "@simpleyemi",
       "title": "Simple Yemi Eats",
       "slogan": "Quick Kenyan Home Meals \ud83c\udf73",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lFpvn3jQr_Kt7lLyixQm0BntreHTD7IdQUH1-DjfRoIgmk=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Omena innovator."
     },
     "videoLink": "https://www.tiktok.com/@simpleyemi",
@@ -2339,7 +2339,7 @@ export const INITIAL_RECIPES = [
       "handle": "@swahilifood",
       "title": "Swahili Food",
       "slogan": "Swahili Coastal Delicacies \ud83c\udfdd\ufe0f",
-      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DrnGbS-W7YV_k7L_L-ytIsFVogujIxqEa7NjKzmswg&s=10",
       "bio": "Kashata snack creator."
     },
     "videoLink": "https://www.youtube.com/watch?v=7x0tG99m103",
@@ -2415,7 +2415,7 @@ export const INITIAL_RECIPES = [
       "handle": "@simpleyemi",
       "title": "Simple Yemi Eats",
       "slogan": "Quick Kenyan Home Meals \ud83c\udf73",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lFpvn3jQr_Kt7lLyixQm0BntreHTD7IdQUH1-DjfRoIgmk=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Beef stew expert."
     },
     "videoLink": "https://www.youtube.com/watch?v=Ryw9C-4uldo",
