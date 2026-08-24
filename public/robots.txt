@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI Engine Search Crawlers (ChatGPT, Gemini, Perplexity, Claude, Apple AI)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://chefpickke.vercel.app/sitemap.xml
