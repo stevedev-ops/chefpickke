@@ -19,5 +19,3 @@ Allow: /
 
 User-agent: Applebot-Extended
 Allow: /
-
-Sitemap: https://chefpickke.vercel.app/sitemap.xml
