@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
+import PWAInstallPrompt from './components/PWAInstallPrompt';
 import MealDecider from './components/MealDecider';
 import PantryMatcher from './components/PantryMatcher';
 import WeeklyPlanner from './components/WeeklyPlanner';
