@@ -8,7 +8,7 @@ export default function ChefSpotlight() {
       handle: "@dennisombachi",
       title: "The Roaming Chef",
       slogan: "DONE! 💥",
-      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=300&q=80",
+      avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBq-D5dGDsPYJFYx1B3QjYNV1qvsv6mUCeGMcYbYLeHw&s=10",
       bio: "Former Kenyan rugby international turned world-famous chef known for incredible sizzles, crispy wings, and garlic butter steaks.",
       link: "https://www.tiktok.com/@dennisombachi",
       platform: "TikTok & YouTube Shorts"
@@ -18,7 +18,7 @@ export default function ChefSpotlight() {
       handle: "@chefalimandhry",
       title: "Kenya's Culinary Ambassador",
       slogan: "Lamu Coastal Magic 🌊",
-      avatar: "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=300&q=80",
+      avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYKnJSWqGiJAEqm1fYl0R8GNgbnu_xTV3tAXdkVCPzTOeiDiPbn3FCP0W&s=10",
       bio: "Celebrity Swahili chef showcasing authentic island biryani, tamarind glazes, and coconut fish dishes.",
       link: "https://www.youtube.com/@ChefAliMandhry",
       platform: "YouTube Channel"
@@ -28,7 +28,7 @@ export default function ChefSpotlight() {
       handle: "@kaluhiskitchen",
       title: "Kaluhi's Kitchen",
       slogan: "Kenyan Comfort Cooking 🥑",
-      avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+      avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pO-419bSG7pD0bxaizUMvFIPdLsBGodZiHbC6ckkoQ&s=10",
       bio: "Pioneer Kenyan food blogger crafting modern twists on staple home stews and coconut Kamande.",
       link: "https://www.kaluhiskitchen.com",
       platform: "Food Blog & Videos"
@@ -38,7 +38,7 @@ export default function ChefSpotlight() {
       handle: "@chefraphael",
       title: "Chef Raphael's Kitchen",
       slogan: "Cooking Made Easy 🍲",
-      avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+      avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedJImmImdIKoWWysg_GoV8AwvkDeXaNVuIZGjoWOw9g&s=10",
       bio: "Culinary instructor dedicated to helping home cooks master local beef karanga, matoke, and kachumbari.",
       link: "https://www.facebook.com/chefraphael",
       platform: "Facebook & YouTube"
